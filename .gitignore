@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+data/
+.venv/
+.tools/
+firmware/.pio/
+firmware/include/tank_config.h
+.env
+artifacts/
+
